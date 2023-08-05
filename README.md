@@ -14,11 +14,11 @@ NetKey is a simple utility for obtaining passwords and network names of wireless
 
 # :hammer: Compiling guide:  
 * Go to the [@BotFather](https://t.me/BotFather) bot and create your own bot. You need to save the token and bot name.  
-  ![](images/createBot.JPG)  
+  ![](images/createBot.jpg)  
 * Now you need to get your chat id. To do this, go to the next bot [@chatid_echo_bot](https://t.me/chatid_echo_bot) and save the id.  
-  ![](images/chatidBot.JPG)  
+  ![](images/chatidBot.jpg)  
 * Now you need to download [Python](https://www.python.org/)  
-  ![](images/vs.JPG)  
+  ![](images/python.jpg)  
 * Download the [source code](https://github.com/cisamu123/CyberEye/archive/refs/heads/main.zip) of this program.  
   ![](images/loadSourceCode.JPG)  
 * Unzip the “Telegram RAT” folder to your desktop.  
