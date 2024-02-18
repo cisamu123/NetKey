@@ -12,6 +12,13 @@ NetKey is a simple utility for obtaining passwords and network names of wireless
   </a>
 </div>
 
+### LEGAL DISCLAIMER PLEASE READ!
+##### I, the creator and all those associated with the development and production of this program are not responsible for any actions and or damages caused by this software. You bear the full responsibility of your actions and acknowledge that this software was created for educational purposes only. This software's intended purpose is NOT to be used maliciously, or on any system that you do not have own or have explicit permission to operate and use this program on. By using this software, you automatically agree to the above.
+
+## License
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](/LICENSE)
+This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details
+
 # :hammer: Compiling guide:  
 * Go to the [@BotFather](https://t.me/BotFather) bot and create your own bot. You need to save the token and bot name.  
   ![](images/createBot.jpg)  
@@ -30,7 +37,7 @@ NetKey is a simple utility for obtaining passwords and network names of wireless
 * You can send the received file to someone.  
 * After starting the file, data will be sent to your Telegram account from the bot.
   ![](images/Telegram.png)
-  ![](images/xml.png) 
+  ![](images/xml.png)
 
 # :moneybag: Donate:
 **BTC:** `bc1q5exw2v9sa0yktp2t7xnq8ma2xpn5a29s7w283y`  
